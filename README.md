@@ -14,7 +14,7 @@ The goal of this project is not to build a profitable trading system but to demo
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/RIshi-Raj-noobie/stock_prediction_project.git
+    git clone (https://github.com/RIshi-Raj-noobie/Stock-market-predictor)
     cd stock_prediction_project
     ```
 
