@@ -1,6 +1,7 @@
 # Stock Price Direction Prediction Model
 
 A machine learning project that predicts the next day's directional movement (Up/Down) of a stock using technical analysis indicators and a Random Forest classifier.
+*THIS IS JUST A SAMPLE MODEL WITH NO CURRENT WORKING APPLICATION USEFUL ONLY AS A REFERENCE FOR KNOWN THINGS *
 
 ## 🎯 Objective
 
