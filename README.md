@@ -74,4 +74,4 @@ The model's performance is evaluated on a held-out test set. Key metrics include
 *   **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, yfinance
 *   **Environment:** Jupyter Notebook
 
-## 📁 Project Structure
+
